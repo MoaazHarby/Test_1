@@ -3,3 +3,4 @@ for ElzeroWebSchool Git course
 
 
 ## Project Notes 
+NEW LINE
